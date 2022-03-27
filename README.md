@@ -1,2 +1,2 @@
 # Minesweeper-game-on-console
-My second project dating back to 2017, this time a minesweeper game
+Just a simple minesweeper console game I created back in 2017 using Java
